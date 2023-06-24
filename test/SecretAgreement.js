@@ -246,21 +246,11 @@ describe("SecretAgreement", function () {
 
 
 
-//test deployement
-//check for contract created
-//check for owner or deployer
-//reveal secret function
-//write test where one part votes one doesnt and call reveal secret
-//test an invalid signature
-//test an invalid secret hash
-//test that event emitted shows revealer
-//create agreement should have a test that checks singer1 and signer2
 
-//Create design exericse with trade offs desribing design choices
 //create a diagram of the contract
-//Run gas report on contract
-//Run slither if necessary on contract
-
+//change require statments to custom errors
+//review that you used signature properly 
+//review the original prompt
 
 
 
